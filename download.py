@@ -65,7 +65,7 @@ def download_videos(video_data, output_folder="DownloadsLevel1", quality="bestvi
 
 # Replace with your playlist link
 # playlist_url = "https://www.youtube.com/playlist?list=PL-Jc9J83PIiE-181crLG1xSIWhTGKFiMY"
-playlist_url="https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk"
+playlist_url=""
 
 # Step 1: Get all video links
 videos = get_playlist_videos(playlist_url)
